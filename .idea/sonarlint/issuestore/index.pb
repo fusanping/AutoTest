@@ -1,3 +1,23 @@
 
 \
 ,.idea/inspectionProfiles/Project_Default.xml,4\9\496a238a6afa168dbaf6efd37bb459331589579c
+E
+Chapter6/Chapter6.iml,3\3\330710a250e87b2ca955e700b6bed8ea796cf1f0
+~
+NChapter6/src/main/java/com/test/extend/demo/ExtendTestNGIReporterListener.java,7\e\7e18811d0081b4f29c42fced630a2d4de17ec071
+@
+Chapter6/pom.xml,2\1\217cc997655be4e994e8edebc636bc731e8d232f
+p
+@Chapter6/src/main/java/com/test/extend/demo/TestMethodsDemo.java,d\a\dae8526a36bfc9c69d11491edbdac983b7b48ba2
+m
+=Chapter5/src/main/java/com/course/testng/BasicAnnotation.java,5\f\5f67fc78afd51992864c6e4eca4fa3339522603a
+E
+Chapter5/Chapter5.iml,b\c\bc8ee4205f2a10301c8ac629df902d34f2aefe4f
+@
+Chapter5/pom.xml,c\2\c24034e92440ef2782034c371b809f04ce33d451
+
+OChapter6/src/main/java/com/test/extend/demo/ExtendTestNGIReportListenerOld.java,0\f\0f710c52060a2b43f4abe3f7287235ad9874102e
+h
+8Chapter5/src/main/java/com/course/testng/DependTest.java,2\2\22f7348e439b383b5bd3471161079cff6598f05b
+o
+?Chapter5/src/main/java/com/course/testng/ExpectedException.java,6\b\6b2e399dff1bf06e79fd404af8fc679a78615018
