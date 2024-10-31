@@ -1,0 +1,11 @@
+
+D
+java:S3740D"/Provide the parametrized type for this generic.(í£¥
+N
+java:S1874"3Remove this use of "description"; it is deprecated.(‡ç¹§ýÿÿÿÿ
+c
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¤„öÓýÿÿÿÿ
+c
+java:S4488!"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(±ô€×úÿÿÿÿ
+c
+java:S44884"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ß—›üÿÿÿÿÿ

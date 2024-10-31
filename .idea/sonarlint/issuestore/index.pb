@@ -1,8 +1,6 @@
 
 \
 ,.idea/inspectionProfiles/Project_Default.xml,4\9\496a238a6afa168dbaf6efd37bb459331589579c
-E
-Chapter6/Chapter6.iml,3\3\330710a250e87b2ca955e700b6bed8ea796cf1f0
 ~
 NChapter6/src/main/java/com/test/extend/demo/ExtendTestNGIReporterListener.java,7\e\7e18811d0081b4f29c42fced630a2d4de17ec071
 @
@@ -11,8 +9,6 @@ p
 @Chapter6/src/main/java/com/test/extend/demo/TestMethodsDemo.java,d\a\dae8526a36bfc9c69d11491edbdac983b7b48ba2
 m
 =Chapter5/src/main/java/com/course/testng/BasicAnnotation.java,5\f\5f67fc78afd51992864c6e4eca4fa3339522603a
-E
-Chapter5/Chapter5.iml,b\c\bc8ee4205f2a10301c8ac629df902d34f2aefe4f
 @
 Chapter5/pom.xml,c\2\c24034e92440ef2782034c371b809f04ce33d451
 
@@ -21,3 +17,39 @@ h
 8Chapter5/src/main/java/com/course/testng/DependTest.java,2\2\22f7348e439b383b5bd3471161079cff6598f05b
 o
 ?Chapter5/src/main/java/com/course/testng/ExpectedException.java,6\b\6b2e399dff1bf06e79fd404af8fc679a78615018
+K
+Chapter7/基本操作说明,5\7\57507a41ef1382a95057fc464ed6ec8e034dba80
+H
+Chapter7/startupGet.json,0\6\06e4ea4b6a21af5f8ca59651b38c6977c9b9734b
+F
+Chapter7/startup1.json,9\9\995eef5fd9fc6ecbcf4076272be85b8c43b765c2
+I
+Chapter7/startupPost.json,9\7\9716277a7b8e68bb2dfa552bf64f2aa2a4baa5cb
+O
+Chapter7/startupWithHeader.json,0\b\0b77e07fa826877f34e4d9a5aa3b96476b06ba23
+Q
+!Chapter7/startupWithRedirect.json,4\1\41937fca8fee7a345af35ceff4b53f6371675703
+P
+ Chapter7/startupWithCookies.json,7\d\7d9742eee0c8e721daa86f8c88565dc17f8c3975
+W
+'Chapter9/src/main/java/Application.java,d\8\d8b278e01366871dfa1ca45cbc60d20838172109
+y
+IChapter8/src/main/java/com/course/httpclient/cookies/MyCookiesForGet.java,5\2\527f9bdd5d386674e7b3d36de12c55e22d58d545
+z
+JChapter8/src/main/java/com/course/httpclient/cookies/MyCookiesForPost.java,f\e\fe8b82422e245813388902f6eac9a18da4c91636
+i
+9Chapter9/src/main/java/com/course/server/MyGetMethod.java,5\0\50959518993a6609b9163076f067429f18d6226a
+s
+CChapter8/src/main/java/com/course/httpclient/demo/MyHttpClient.java,4\2\426b7be3b37f3be8dffe0226ebe4dcada710b933
+j
+:Chapter9/src/main/java/com/course/server/MyPostMethod.java,3\6\365719d8e3d15527482340c3a6a4a0e14e4fc048
+@
+Chapter7/pom.xml,0\c\0c41e54ee72f8a71e9449894a79ff6be26ae0775
+@
+Chapter8/pom.xml,3\9\39bf05e9591b5e6362d141dda39abec3312874b9
+b
+2Chapter9/src/main/java/hello/SampleController.java,b\f\bfb2b271bd8990db215c247bbec45a8f32d430e6
+k
+;Chapter9/src/main/java/com/course/config/SwaggerConfig.java,0\a\0a495dfe6524fa45bcacb642d4c318eef77505d4
+`
+0Chapter9/src/main/java/com/course/bean/User.java,d\2\d2e596f63b7227ea29af36da3c641bef0af51bdd

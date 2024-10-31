@@ -1,0 +1,22 @@
+
+e
+java:S2095="OUse try-with-resources or close this "DefaultHttpClient" in a "finally" clause.(†Íø±
+e
+java:S2095*"OUse try-with-resources or close this "DefaultHttpClient" in a "finally" clause.(†Íø±
+O
+java:S1874*"9Remove this use of "DefaultHttpClient"; it is deprecated.(†Íø±
+O
+java:S1874*"9Remove this use of "DefaultHttpClient"; it is deprecated.(†Íø±
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(¡—Íóúÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(À•š›
+O
+java:S1874="9Remove this use of "DefaultHttpClient"; it is deprecated.(†Íø±
+O
+java:S1874="9Remove this use of "DefaultHttpClient"; it is deprecated.(†Íø±
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(¾¦äþÿÿÿÿ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(®ýáëûÿÿÿÿ
+T
+java:S1128">Remove this unused import 'org.apache.http.client.HttpClient'.(¨­—ž
+g
+java:S1128"QRemove this unused import 'org.apache.http.client.methods.CloseableHttpResponse'.(©£çË
