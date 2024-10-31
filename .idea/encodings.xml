@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="GBK">
+    <file url="file://$PROJECT_DIR$/Chapter6/src/main/java/com/test/extend/demo/ExtendTestNGIReporterListener.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter7/startup1.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter7/startupGet.json" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter9/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Chapter9/src/main/java/Application.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter9/src/main/java/com/course/server/MyGetMethod.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter9/src/main/java/hello/SampleController.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Chapter9/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>

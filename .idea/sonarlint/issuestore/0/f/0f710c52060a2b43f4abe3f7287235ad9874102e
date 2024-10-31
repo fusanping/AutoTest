@@ -1,0 +1,13 @@
+
+p
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(É¸Íõ
+?
+java:S1604"(Make this anonymous inner class a lambda(É¸Íõ
+3
+java:S1643™"Use a StringBuilder instead.(¨ğ¿‡
+m
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 36 to the 15 allowed.(ØõÕüÿÿÿÿ
+V	java:S125d"<This block of commented-out lines of code should be removed.(ÈÚµùÿÿÿÿ
+m
+java:S3776~"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(Š¶Òœşÿÿÿÿ
+W	java:S125¨"<This block of commented-out lines of code should be removed.(‰²¢ùÿÿÿÿ
