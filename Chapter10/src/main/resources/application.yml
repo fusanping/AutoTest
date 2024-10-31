@@ -1,17 +1,21 @@
 server:
-  port: 8888
+   port: 8888
+
 logging:
-  file: logs
-   path: mylog.log
+    path: E:/logs
+    file: mylog.log
+
+
 spring:
-  application:
-    name: myTest
-  datasource:
-    driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://124.222.243.64:3306/litemall
-    username: root
-    passwor: fspbkkk124
+   application:
+          name: report
+   datasource:
+       driver-class-name: com.mysql.jdbc.Driver
+       url: jdbc:mysql://124.222.243.64:3306/litemall
+       username: root
+       password: fspbkkk124
+
 mybatis:
-  type-aliases-package: com.course.model
-  mapper-locations:
-    - mapper/*
+    type-aliases-package: com.course.model
+    mapper-locations:
+       - mapper/*
