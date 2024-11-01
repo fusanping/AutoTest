@@ -8,6 +8,17 @@
         select count(*) from litemall_admin;
 
     </select>
+    <insert id="addUser" parameterType="com.course.model.User">
+        insert into litemall_admin(id,username,password,role_ids)
+        values (#{id},#{username},#{password},#{role_ids})
+    </insert>
+    <update id="updateUser" parameterType="com.course.model.User">
+        update litemall_admin set  username =#{username},password=#{password},role_ids=#{role_ids}
+        where id = #{id}
+    </update>
+    <delete id="deleteUser" parameterType="Integer">
+        delete from litemall_admin where id=#{id} and avatar  is  null;
+    </delete>
 
 
 
