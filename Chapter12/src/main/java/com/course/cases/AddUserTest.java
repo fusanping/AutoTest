@@ -1,9 +1,9 @@
-package com.tester.cases;
+package com.course.cases;
 
-import com.tester.config.TestConfig;
-import com.tester.model.AddUserCase;
-import com.tester.model.User;
-import com.tester.utils.DatabaseUtil;
+import com.course.config.TestConfig;
+import com.course.model.AddUserCase;
+import com.course.model.User;
+import com.course.utils.DatabaseUtil;
 import org.apache.http.HttpResponse;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.entity.StringEntity;

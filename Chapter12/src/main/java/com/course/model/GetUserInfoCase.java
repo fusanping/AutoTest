@@ -1,8 +1,13 @@
 package com.course.model;
-/** 
- * @author fusanping 
- * @date 2024年11月04日 22:48 
+
+import lombok.Data;
+
+/**
+ * @author fusanping
+ * @date 2024年11月04日 22:48
  */
- 
+@Data
 public class GetUserInfoCase {
+    private int userId;
+    private String expected;
 }

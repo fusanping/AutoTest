@@ -1,8 +1,21 @@
 package com.course.config;
-/** 
- * @author fusanping 
- * @date 2024年11月04日 22:58 
+
+import org.apache.http.client.CookieStore;
+import org.apache.http.impl.client.DefaultHttpClient;
+
+/**
+ * @author fusanping
+ * @date 2024年11月04日 22:58
  */
- 
+
 public class TestConfig {
+    public static String loginUrl;
+    public static String updateUserInfoUrl;
+    public static String getUserInfoUrl;
+    public static String addUserUrl;
+    public static String getUserListUrl;
+
+
+    public static DefaultHttpClient defaultHttpClient;
+    public static CookieStore store;
 }

@@ -1,9 +1,8 @@
-package com.tester.cases;
-
-import com.tester.config.TestConfig;
-import com.tester.model.UpdateUserInfoCase;
-import com.tester.model.User;
-import com.tester.utils.DatabaseUtil;
+package com.course.cases;
+import com.course.config.TestConfig;
+import com.course.model.UpdateUserInfoCase;
+import com.course.model.User;
+import com.course.utils.DatabaseUtil;
 import org.apache.http.HttpResponse;
 import org.apache.http.client.methods.HttpPost;
 import org.apache.http.entity.StringEntity;
@@ -14,7 +13,6 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import java.io.IOException;
-import java.io.UnsupportedEncodingException;
 
 public class UpdateUserInfoTest {
 

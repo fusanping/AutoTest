@@ -1,4 +1,4 @@
-package com.tester.model;
+package com.course.model;
 
 import lombok.Data;
 

@@ -1,8 +1,15 @@
 package com.course.model;
-/** 
- * @author fusanping 
- * @date 2024年11月04日 22:50 
+
+import lombok.Data;
+
+/**
+ * @author fusanping
+ * @date 2024年11月04日 22:50
  */
- 
+@Data
 public class LoginCase {
+    private String userName;
+    private String password;
+    private int id;
+    private String expected;
 }
