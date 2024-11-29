@@ -12,8 +12,6 @@
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
         <!--<java.version>17</java.version>--> <!--注释掉该行或者删除或者改成17即可-->
-
-        <java.version>1.8</java.version>
     </properties>
     <dependencies>
         <dependency>
@@ -39,7 +37,7 @@
         </dependency>
         <dependency>
             <groupId>org.projectlombok</groupId>
-
+            <artifactId>lombok</artifactId>
             <version>1.16.14</version>
         </dependency>
         <dependency>

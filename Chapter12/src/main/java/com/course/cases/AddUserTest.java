@@ -25,12 +25,9 @@ public class AddUserTest {
         AddUserCase addUserCase = session.selectOne("addUserCase",1);
         System.out.println(addUserCase.toString());
         System.out.println(TestConfig.addUserUrl);
-
-
-
+        //发送请求，获取结果
         //下边的代码为写完接口的测试代码
         String result = getResult(addUserCase);
-
         /**
          * 可以先讲
          */

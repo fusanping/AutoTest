@@ -33,11 +33,14 @@ public class GetUserInfoListTest {
 
 
         //下边为写完接口的代码
+
+        //发送请求获取结果
         JSONArray resultJson = getJsonResult(getUserListCase);
         /**
          * 可以先讲
          */
         Thread.sleep(2000);
+        //验证
         List<User> userList = session.selectList(getUserListCase.getExpected(),getUserListCase);
         for(User u : userList){
             System.out.println("list获取的user:"+u.toString());
