@@ -68,7 +68,7 @@ public class UserManager {
         for(Cookie cookie : cookies){
             if(cookie.getName().equals("login") &&
                     cookie.getValue().equals("true")){
-                log.info("cookies验证通过");
+                log.info("cookies验证通过,可以登录");
                 return true;
             }
         }
